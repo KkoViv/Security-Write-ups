@@ -4,7 +4,7 @@ Tools used are often **third-party**; here I document the **method, reasoning, a
 
 ## Index
 - 2025
-  - [2025-08-14 – Example write-up](2025/2025-08-14_example.md)
+  - 2025-08-14_madness_thm_writeup.md
 
 ## Conventions
 - File names: `YYYY-MM-DD_short-topic.md`
